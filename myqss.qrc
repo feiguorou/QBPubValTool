@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/myqss">
+        <file>qtab.css</file>
+        <file>themelabel.css</file>
+    </qresource>
+</RCC>

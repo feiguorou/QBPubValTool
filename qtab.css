@@ -1,0 +1,24 @@
+QWidget
+{
+    color: #b1b1b1;
+    /**border-image: url(:/icon/background.jpg);**/
+    background-color: #222222;
+}
+QTabBar::tab
+{
+    color: #b1b1b1;
+    border: 1px solid #444;
+    border-bottom-style: none;
+    background-color: #ffffff;
+    height:25px;padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px; padding-bottom: 2px; margin-right: -1px;
+}
+QTabBar::tab:hover
+{
+    background-color: #3F3F3F
+}
+QTabBar::tab:selected
+{
+    background-color: #3F3F3F
+}
